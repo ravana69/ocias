@@ -1,0 +1,18 @@
+{
+  "short_name": "Walker",
+  "name": "Walker",
+  "icons": [{
+    "src": "launch-images/icon192.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"},
+    {
+    "src": "launch-images/icon512.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"}
+  ],
+  "start_url": "./",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
